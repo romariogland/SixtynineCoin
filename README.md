@@ -1,3 +1,12 @@
+addnode 85.113.216.124:4485 add
+
+addnode 85.113.209.121:4485 add
+
+Pool http://openpool.ru 
+
+
+
+
 Sixtyninecoin integration/staging tree
 ================================
 
